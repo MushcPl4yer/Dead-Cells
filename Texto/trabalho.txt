@@ -1,0 +1,34 @@
+Dead cells
+elementos motivadores
+	a ideia de a cada nivel eu ficar mais forte 
+	aprimorar minhas armas e aumentar o meu poder
+	chegar uma dia na fase final para adquirir uma celula tronco
+
+desafios encontrados
+	o jogo nâo tem checkpoint
+	a cada nivel o a dificuldade do jogo aumenta
+	os inimigos ficam mais fortes ao decorrer do jogo
+	a cada faze você tem desafios pra cumprir 
+		relacionados ao tempo em uma faze
+		quantidade de kills sem levar dano
+
+como os desafios aumentaõ
+	a cada vez que você "zera" o dead cells, voce coleta uma celula tronco
+	a cada celula (limite de 5) o jogo vai ficando mais dificil, adicionando novos inimigos
+
+como superar os obstaculos
+	basicamente é aprimorando suas armas e sua habilidade em todo
+	gerando novas estrategias
+
+como o jogador avança
+	você vai passando pelos portais, cada porta leva para uma fase ou boss diferente
+	ao coletar celulas, você consegue desbloquear novos items/skins
+
+condição de vitoria
+	conseguir matar a mão do rei (depois de 5 celulas troncos é o colecionador)
+
+condição de derrota
+	ir de americanas
+
+o que poderia ser evitado
+	a falta de checkpoints
